@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\qqq\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.exe.config
+C:\Users\Home\Desktop\qqq\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.exe
+C:\Users\Home\Desktop\qqq\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.pdb
+C:\Users\Home\Desktop\qqq\PrimeChainFinder\PrimeChainFinder\obj\Debug\PrimeChainFinder.exe
+C:\Users\Home\Desktop\qqq\PrimeChainFinder\PrimeChainFinder\obj\Debug\PrimeChainFinder.pdb
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.exe.config
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\obj\Debug\PrimeChainFinder.exe
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\obj\Debug\PrimeChainFinder.pdb
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.exe
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\bin\Debug\PrimeChainFinder.pdb
+C:\Users\Home\Desktop\PrimeChainFinder\PrimeChainFinder\obj\Debug\PrimeChainFinder.csprojResolveAssemblyReference.cache
